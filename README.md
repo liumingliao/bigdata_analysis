@@ -12,7 +12,7 @@ list
 
 <div align="center">
 
-| 主题  | 处理方式| 技术栈 | 数据集下载|
+| 主题  | 处理方式 | 技术栈 | 数据集下载|
 | ---------- | -----------|  ---------- | -----------|
 | [世界杯数据可视化分析](https://nbviewer.org/github/liumingliao/bigdata_analysis/blob/main/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90.ipynb)   | 离线处理   | 清洗pandas + 分析pandas + 可视化pyecharts | [百度网盘](https://pan.baidu.com/s/1ua8Kk0XQ1asHg856OSDoTg) 提取码：qlfk   |
 | [淘宝用户购物行为数据可视化分析](https://nbviewer.org/github/liumingliao/bigdata_analysis/blob/main/%E6%B7%98%E5%AE%9D%E7%94%A8%E6%88%B7%E8%B4%AD%E7%89%A9%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90/%E6%B7%98%E5%AE%9D%E7%94%A8%E6%88%B7%E8%B4%AD%E7%89%A9%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90.ipynb)   | 离线处理   | 清洗pandas + 分析pandas + 可视化pyecharts |[百度网盘](https://pan.baidu.com/s/1SVoEQkKlms933q2nyDQJEw) 提取码：zd2m   |
